@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE bookdetails SYSTEM "book.dtd">
+
+<?xml:stylesheet type="text/xsl" href="book.xsl"?>
+
+<bookdetails>
+
+<books>
+
+<title> C </title>
+
+<author> Balaguruswamy </author>
+
+<edition> Edition-II </edition>
+
+<price>$30.00</price>
+
+</books>
+
+<books>
+
+<title> C++ </title>
+
+<author> Yaswanth Kanethkar </author>
+
+<edition> Edition-I </edition>
+
+<price>$35.00</price>
+
+</books>
+
+<books>
+<title> JAVA </title>
+
+<author> Herbert Schildt </author>
+
+<edition> Edition-IV </edition>
+ 
+<price>$50.00</price>
+
+</books>
+
+</bookdetails>
